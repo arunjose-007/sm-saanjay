@@ -1,0 +1,61 @@
+{
+  "hash": "ae70fa87",
+  "configHash": "eec70664",
+  "lockfileHash": "cb2ef9da",
+  "browserHash": "e26de085",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "3c247b6b",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "ee8d1cdb",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "424b241a",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "83bba989",
+      "needsInterop": true
+    },
+    "leaflet": {
+      "src": "../../leaflet/dist/leaflet-src.js",
+      "file": "leaflet.js",
+      "fileHash": "1937622a",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "eeaefb8e",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "195bbd3c",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-NXESFFTV": {
+      "file": "chunk-NXESFFTV.js"
+    },
+    "chunk-DRWLMN53": {
+      "file": "chunk-DRWLMN53.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
